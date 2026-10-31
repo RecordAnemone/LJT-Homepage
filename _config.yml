@@ -20,10 +20,8 @@ author:
   twitter: "junteng88716710"
 
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'
+  preprints:
+    title: 'Preprints'
   conferences:
     title: 'Conference Papers'
 
@@ -69,6 +67,7 @@ exclude:
 keep_files:
   - .git
   - .svn
+
 
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
