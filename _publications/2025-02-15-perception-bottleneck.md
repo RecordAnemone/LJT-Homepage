@@ -1,7 +1,7 @@
 ---
 title: "On the Perception Bottleneck of VLMs for Chart Understanding"
 collection: publications
-category: conferences
+category: preprints
 permalink: /publication/perception-bottleneck-vlm-chart
 excerpt: 'First author. Code available on GitHub: Vision4Chart.'
 date: 2025-02-15
