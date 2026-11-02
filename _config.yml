@@ -193,6 +193,15 @@ exclude:
   - README
   - tmp
   - vendor
+  - talkmap.ipynb
+  - talkmap.py
+  - talkmap_out.ipynb
+  - talkmap
+  - markdown_generator
+  - scripts
+  - AGENTS.md
+  - docker-compose.yaml
+  - _config_docker.yml
 keep_files:
   - .git
   - .svn
