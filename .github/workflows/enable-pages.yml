@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Enable GitHub Pages
+        id: pages
         uses: actions/configure-pages@v5
         with:
           enablement: true
